@@ -40,8 +40,8 @@ span{
   text-align: center;
 }
 img{
-  height: 220px;
-  width: 385px;
+  width: 100%;
+height: auto;
 }
 .gallery{
     display: grid;
